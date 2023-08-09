@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(219, 220, 172);
+}   
+.container {
+    border: 2px solid black;
+    width: 1000px;
+    margin: auto;
+}
+.box {
+    width: 40%;
+    margin: auto;
+}
+.box img {
+    width: 100;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.box2 {
+    padding: top 10px;;
+    width: 30%;
+    margin: auto;
+}
+.row2 {
+    display: flex;
+    flex-wrap: wrap;
+}
+.container2 {
+    border: 2px solid grey;
+    width: 1000px;
+    margin: auto;
+}
